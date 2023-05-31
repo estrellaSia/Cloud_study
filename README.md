@@ -1,4 +1,4 @@
-# Cloud_study 1차
+# Cloud_study
 
 **일시**: 2023.03.11.(토) 13시
 
